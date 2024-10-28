@@ -1,0 +1,14 @@
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\listener\CompraItemProcessorListener.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\job\CompraItemWriter.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\BatchApplication.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\repository\HistoricoRepository.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\domain\Compra.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\domain\Historico.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\config\BatchConfig.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\listener\CompraItemReaderListener.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\listener\CompraJobExecutionListener.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\repository\CompraRepository.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\job\CompraItemProcessor.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\service\BatchServiceImp.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\listener\CompraItemWriterListener.java
+C:\Users\pyllanag\OneDrive - Capgemini\Desktop\mine2\batch\src\main\java\com\microservicios\batch\job\CompraItemReader.java

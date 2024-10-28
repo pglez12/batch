@@ -23,7 +23,7 @@ public class Historico {
 	@Id
     private Long eventoid;
     private Double preciomedio;
-    private Integer numeroventas;
+    private Long numeroventas;
     @Temporal(TemporalType.DATE)
     @Column(name="timestamp")
     private Date fecha;
