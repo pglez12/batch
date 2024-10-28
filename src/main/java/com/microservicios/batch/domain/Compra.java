@@ -12,6 +12,11 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * Clase que representa una entidad de compra.
+ * 
+ * @author grupo1
+ */
 @Entity
 @Data
 @Builder
@@ -21,9 +26,13 @@ import lombok.NoArgsConstructor;
 public class Compra {
 	@Id
     private Long id;
+	
     @Temporal(TemporalType.DATE)
     private Date fecha;
+    
     private double precio;
+    
     private String email;
+    
     private Long eventoid;
 }

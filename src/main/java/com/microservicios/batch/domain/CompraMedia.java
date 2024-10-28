@@ -7,10 +7,18 @@ import jakarta.persistence.Id;
 import lombok.Builder;
 import lombok.Data;
  
+/**
+ * Clase que representa un objeto de datos de compra media.
+ * 
+ * Esta clase se utiliza para almacenar información agregada sobre las compras,
+ * incluyendo la fecha, el ID del evento, el precio medio de las compras y el
+ * total de compras realizadas para ese evento en una fecha específica.
+ * 
+ * @author grupo1
+ */
 @Entity
 @Data
 @Builder
-
 public class CompraMedia {
 	@Id
 	private Date fecha;

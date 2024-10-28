@@ -1,5 +1,6 @@
 package com.microservicios.batch.domain;
 
+import java.sql.Timestamp;
 import java.util.Date;
 
 import jakarta.persistence.Column;
@@ -13,6 +14,11 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
  
+/**
+ * Clase que representa un registro histórico de ventas.
+ * 
+ * @author grupo1
+ */
 @Entity
 @Data
 @Builder
@@ -24,7 +30,7 @@ public class Historico {
     private Long eventoid;
     private Double preciomedio;
     private Long numeroventas;
-    @Temporal(TemporalType.DATE)
+    @Temporal(TemporalType.TIMESTAMP)
     @Column(name="timestamp")
-    private Date fecha;
+    private Timestamp fecha;
 }
